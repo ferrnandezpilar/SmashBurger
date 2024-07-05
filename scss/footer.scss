@@ -1,0 +1,39 @@
+.redes-sociales{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    margin-bottom: 3%;  
+}
+
+.icono {
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+
+.terminos-condiciones{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+
+@media (max-width: 650px) {
+    .redes-sociales{
+        display: flex;
+        justify-content: space-evenly;
+        text-align: center;
+        margin-bottom: 3%;  
+    }
+    
+    .icono {
+        display: flex;
+        justify-content: center;
+        flex-direction: row-reverse;
+    }
+    
+    .terminos-condiciones{
+        display: flex;
+        justify-content: center;
+        flex-direction: row-reverse;
+    }
+}
