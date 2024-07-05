@@ -490,13 +490,7 @@ body {
     animation-delay: 2s;
   }
   
-  .burger:nth-child(5) {
-    animation-delay: 2.5s;
-  }
-  
-  .burger:nth-child(6) {
-    animation-delay: 3s;
-  }
+
   
   @keyframes fadeIn {
     to {
@@ -519,7 +513,7 @@ body {
 }
 
 .pedilas-acaa {
-    border: 2px solid #000; 
+     
     padding: 10px; 
     text-decoration: none; 
     border-radius: 5px; 

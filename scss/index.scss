@@ -155,14 +155,7 @@
      animation-delay: 2s;
    }
    
-   .burger:nth-child(5) {
-     animation-delay: 2.5s;
-   }
-   
-   .burger:nth-child(6) {
-     animation-delay: 3s;
-   }
-   
+
 
 .pedilas-acaa {
         border: 2px solid #000; 
@@ -178,7 +171,7 @@
     border-color: #fff;
 }
 
-@media (max-width: 350px) {
+@media (max-width: 250px) {
     .fondo-de-pantalla{
         background-image: url(./fondo-de-pantalla.jpg);
        padding: 3%;
