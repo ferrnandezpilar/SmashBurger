@@ -13,6 +13,12 @@
     color: #000;
 }
 
+.btn-btn-link{
+    color: #FFF;
+    text-decoration: none;
+    padding: 4%;
+}
+
 .ir-a-menu{
     font-weight: 200;
     color: white;
@@ -534,6 +540,11 @@ body {
         background-image: url(./fondo-de-pantalla.jpg);
        padding: 3%;
     
+    }
+    .btn-btn-link{
+        color: #FFF;
+        text-decoration: none;
+        padding: 4%;
     }
     
     .descuento-efectivo h3{

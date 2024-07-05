@@ -1,0 +1,118 @@
+.fondo-de-pantalla-take-away {
+  background-image: url(./fondo-de-pantalla.jpg);
+  padding: 9%;
+  max-width: 200%;
+}
+
+.btn-btn-link {
+  border: 2px solid black;
+  padding: 10px;
+  background-color: lightgray;
+  color: white;
+  font-size: medium;
+}
+
+.selecciona-local1 {
+  justify-content: center;
+  color: whitesmoke;
+  font-size: 20px;
+  display: flex;
+  text-align: center;
+  font-family: "Anton", sans-serif;
+}
+
+.card-mb-3 {
+  background-color: transparent;
+  color: white;
+}
+
+.mb-3 {
+  margin-bottom: 1rem !important;
+}
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.card-text {
+  color: white;
+}
+
+.card, h5 {
+  display: flex;
+  margin-bottom: 0.5rem;
+  justify-content: space-around;
+}
+
+.card-title {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  font-size: 24px;
+  text-align: center;
+}
+
+.selecciona-sucursal2 {
+  display: flex;
+  justify-content: center;
+  flex-direction: row-reverse;
+}
+
+@media (max-width: 650px) {
+  .fondo-de-pantalla-take-away {
+    background-image: url(./fondo-de-pantalla.jpg);
+    padding: 9%;
+    max-width: 200%;
+  }
+  .btn-btn-link {
+    border: 2px solid black;
+    padding: 10px;
+    background-color: lightgray;
+    color: white;
+    font-size: medium;
+  }
+  .selecciona-local1 {
+    justify-content: center;
+    color: whitesmoke;
+    font-size: 20px;
+    display: flex;
+    text-align: center;
+    font-family: "Anton", sans-serif;
+  }
+  .card-mb-3 {
+    background-color: transparent;
+    color: white;
+  }
+  .mb-3 {
+    margin-bottom: 1rem !important;
+  }
+  .card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+  }
+  .card-text {
+    color: white;
+  }
+  .card, h5 {
+    display: flex;
+    margin-bottom: 0.5rem;
+    justify-content: space-around;
+  }
+  .card-title {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+  }
+  .selecciona-sucursal2 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+  }
+}/*# sourceMappingURL=take-away.css.map */
