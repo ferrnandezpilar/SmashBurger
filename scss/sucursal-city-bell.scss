@@ -17,6 +17,12 @@
    color: black;
 }
 
+.formulariocb h2{
+    transform: scale(1.1);
+   transition: transform 0.7s; 
+
+}
+
 @media (max-width: 650px) {
     .sucursal-lp{
         display: flex;
@@ -35,5 +41,10 @@
        border: 2px solid rgb(0, 0, 0);
        background-color: lightgray;
        color: black;
+    }
+    .formulariocb h2{
+        transform: scale(1.1);
+       transition: transform 0.7s; 
+    
     }
 }
