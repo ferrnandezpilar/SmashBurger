@@ -59,7 +59,9 @@
     color: whitesmoke;
     font-family: 'Montserrat', sans-serif;
     display: flex;
+    justify-content: space-around;
 }
+
 
 .take-away1{
     font-weight: 250;
