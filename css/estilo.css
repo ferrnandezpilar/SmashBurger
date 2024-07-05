@@ -55,10 +55,10 @@
     justify-content: center;
 }
 .entrega, h3{
-    font-size: 30px;
+    font-size: 20px;
     color: whitesmoke;
     font-family: 'Montserrat', sans-serif;
-
+    display: flex;
 }
 
 .take-away1{
@@ -1048,7 +1048,5 @@ body {
         transform: scale(1.1);
        transition: transform 0.7s; 
     }      
-    
-    
     
 }
